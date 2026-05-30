@@ -1,4 +1,4 @@
-# 🎬 Disney+ Checker
+# 🎬 Disney+ Validator
 
 Checks Disney+ accounts. Gives you country, plan, email verification status, free trial flag, and next renewal date.
 
